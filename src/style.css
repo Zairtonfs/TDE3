@@ -1,0 +1,136 @@
+#css-zen-garden{
+    background-color: #FAF3E6;
+    border: 20px double black;
+}
+.imagem-logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+h1{
+    text-align: center;
+    font-size: 130px;
+    color: #0BD3D3;
+    font-family: 'Fascinate Inline', sans-serif;
+}
+h2{
+    text-align: center;
+    font-size: 80px;
+    color: #F468D8;
+    font-family: 'Fascinate Inline', sans-serif;
+}
+h3{
+    font-size: 80px;
+    color: black;
+}
+.summary{
+    font-size: 25px;
+    text-align: center;
+    margin-right: 400px;
+    margin-left: 400px;
+    color: #494c4c;
+    font-family: 'Merriweather', serif;
+}
+.preamble{
+    font-size: 25px;
+    text-align: center;
+    margin-right: 300px;
+    margin-left: 300px;
+    color: #494c4c;
+    font-family: 'Merriweather', serif;
+}
+.main-supporting{
+    font-size: 25px;
+    text-align: center;
+    margin-right: 300px;
+    margin-left: 300px;
+    color: #494c4c;
+    font-family: 'Merriweather', serif;
+}
+.sidebar{
+    text-align:center;
+    font-size: 15px;
+    justify-content: space-around;
+    font-family: 'Merriweather', serif;
+}
+.select{
+    color: black;
+    font-family: 'Merriweather', serif;
+}
+.design-name{
+    text-decoration: none;
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+    color: #F468D8;
+}
+.design-name:hover{
+    color: #0BD3D3;
+}
+.designer-name{
+    text-decoration: none;
+    font-family: 'Merriweather', serif;
+    font-size: 30px;
+    color: #0BD3D3;
+}
+.designer-name:hover{
+    color: #F468D8;
+}
+.botao-link{
+    text-decoration: none;
+    color: #F468D8;
+}
+.botao-link:hover{
+    color: #0BD3D3;
+}
+#linha-horizontal-1{
+    width: 850px;
+    border: 10px solid black;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 300px;
+}
+#linha-horizontal{
+    width: 850px;
+    border: 10px solid black;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+footer{
+    justify-content: space-around;
+
+}
+ul{
+    list-style: none;
+}
+.lista-arquivos{
+    display: flex;
+    justify-content: space-around;
+}
+.lista-recursos{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    padding: 25px;
+}
+.botoes-arquivos{
+    text-decoration: none;
+    background-color: black;
+    padding: 20px;
+    border-radius: 5%;
+    color: white;
+}
+.botoes-arquivos:hover{
+    background-color: #0BD3D3;
+    transition: 0.2s;
+}
+.botoes-recursos{
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+.botoes-recursos:hover{
+    color: #0BD3D3;
+}
+
+
